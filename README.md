@@ -1,17 +1,26 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Nasir%20Hussain&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Syed+Nasir+Hussain;Computer+Science+Engineering+Student;AI+%26+Software+Development+Enthusiast;Developer+%26+Problem+Solver" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nasirhussain-1&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
+<a href="https://github.com/nasirhussain-1">
+<img src="https://img.shields.io/github/followers/nasirhussain-1?label=Followers&style=social" />
+</a>
+
+</div>
+
 # 👋 Hello, I'm Syed Nasir Hussain
 
-\<div align="center">
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Nasir%20Hussain&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer&descAlignY=55&descAlign=50](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Syed%20Nasir%20Hussain\&fontSize=40\&fontAlignY=35\&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer\&descAlignY=55\&descAlign=50)"/>
-
-\
-
-
-\</div>
-
-## 🚀 About Me
-
-I'm **Syed Nasir Hussain**, a Computer system Engineering student and passionate developer who enjoys building practical software solutions and exploring new technologies.
+I'm a **Computer System Engineering student** and passionate developer who enjoys building practical software solutions and exploring new technologies.
 
 I love turning ideas into working projects, learning by building, and continuously improving my programming and problem-solving skills.
 
@@ -20,33 +29,40 @@ I love turning ideas into working projects, learning by building, and continuous
 🚀 Developer & Problem Solver
 🤖 AI & Software Development Enthusiast
 📚 Always Learning & Building
+🔥 Turning Ideas Into Projects
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### Programming Languages
+## 💻 Programming Languages
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,java,python,javascript](https://skillicons.dev/icons?i=cpp,java,python,javascript)" />
-\</p>
+<div align="center">
 
-### Web & Application Development
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,react,nodejs](https://skillicons.dev/icons?i=html,css,js,react,nodejs)" />
-\</p>
+</div>
 
-### Tools & Technologies
+## 🌐 Web & Application Development
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,supabase](https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,supabase)" />
-\</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+
+</div>
+
+## 🔧 Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,supabase" />
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 I'm currently focused on improving my skills in:
 
@@ -61,173 +77,199 @@ I'm currently focused on improving my skills in:
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🤖 PromptVault
+## 🤖 PromptVault
 
-An AI-powered prompt improvement tool designed to help users improve their prompts and generate better prompt ideas.
+An AI-powered prompt improvement application designed to help users improve their prompts and generate better prompt ideas.
 
-**Features:**
+### Features
 
 - ✨ Prompt improvement
 - 💡 New prompt suggestions
 - 🤖 AI-powered enhancement
 - 📚 Prompt management
-- 🎯 Better and more structured prompts
+- 🎯 Better structured prompts
 
 ---
 
-### 🎓 Smart Attendance System
+## 🎓 Smart Attendance System
 
-A hardware + software based university attendance system using smart cards.
+A hardware + software university attendance system using smart cards.
 
-**Concept:**
+### Concept
 
 ```text
-Smart Card
-    ↓
-Card Reader
-    ↓
-Attendance System
-    ↓
-Database
-    ↓
-Admin Dashboard
+┌──────────────┐
+│  Smart Card  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Card Reader  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│  Attendance  │
+│    System    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   Database   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Admin     │
+│  Dashboard   │
+└──────────────┘
 ```
 
 The system is designed to automate student attendance and connect attendance records directly with a database for administrative management.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=nasircooks-exe&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=nasircooks-exe\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=nasirhussain-1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=nasircooks-exe&theme=tokyonight&hide\_border=true](https://github-readme-streak-stats.herokuapp.com/?user=nasircooks-exe\&theme=tokyonight\&hide_border=true)" />
+<br><br>
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nasircooks-exe&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=nasircooks-exe\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirhussain-1&layout=compact&theme=tokyonight&hide_border=true" />
 
-\</div>
+<br><br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirhussain-1&theme=tokyonight&hide_border=true" />
 
-## 📈 GitHub Activity
-
-\<div align="center">
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=nasircooks-exe&theme=tokyo-night&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=nasircooks-exe\&theme=tokyo-night\&hide_border=true)" />
-
-\</div>
+</div>
 
 ---
 
-## 🧠 What I'm Learning
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasirhussain-1&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧠 What I'm Learning
 
 ```text
 Data Structures & Algorithms
-        ↓
+            ↓
 Object-Oriented Programming
-        ↓
+            ↓
 Web Development
-        ↓
+            ↓
 Artificial Intelligence
-        ↓
+            ↓
 Cloud & Backend Development
-        ↓
+            ↓
 Cybersecurity
-        ↓
-Building Real-World Products
+            ↓
+Real-World Product Development
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-### 📧 Email
+<a href="mailto:nasirhussain.edu12@gmail.com">
+<img src="https://img.shields.io/badge/Email-nasirhussain.edu12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\<a href="mailto\:nasirhussain.edu12\@gmail.com">
-&#x20; \<img src="[https://img.shields.io/badge/Email-nasirhussain.edu12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-nasirhussain.edu12%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-\</a>
+&nbsp;
 
-### 💼 LinkedIn
+<a href="https://www.linkedin.com/in/syed-nasir-hussain-1b8603381">
+<img src="https://img.shields.io/badge/LinkedIn-Syed%20Nasir%20Hussain-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<a href="[https://www.linkedin.com/in/syed-nasir-hussain-1b8603381](https://www.linkedin.com/in/syed-nasir-hussain-1b8603381)">
-&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Syed%20Nasir%20Hussain-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Syed%20Nasir%20Hussain-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+&nbsp;
 
-### 💻 GitHub
+<a href="https://github.com/nasirhussain-1">
+<img src="https://img.shields.io/badge/GitHub-nasirhussain--1-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<a href="[https://github.com/nasircooks-exe](https://github.com/nasircooks-exe)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-nasircooks--exe-black?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-nasircooks--exe-black?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
-
-\</div>
+</div>
 
 ---
 
-## 📱 Social Media
+# 📱 Social Media
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://www.youtube.com/@ahmed\_907](https://www.youtube.com/@ahmed_907)">
-\<img src="[https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge\&logo=youtube\&logoColor=white)"/>
-\</a>
+<a href="https://www.youtube.com/@ahmed_907">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-\<a href="[https://www.facebook.com/ahmedjhatial.3](https://www.facebook.com/ahmedjhatial.3)">
-\<img src="[https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge\&logo=facebook\&logoColor=white)"/>
-\</a>
+&nbsp;
 
-\<a href="[https://www.instagram.com/ahmed.jhatyal1](https://www.instagram.com/ahmed.jhatyal1)">
-\<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
-\</a>
+<a href="https://www.facebook.com/ahmedjhatial.3">
+<img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-\<a href="[https://x.com/jhatial\_ahmad](https://x.com/jhatial_ahmad)">
-\<img src="[https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-Follow-black?style=for-the-badge\&logo=x\&logoColor=white)"/>
-\</a>
+&nbsp;
 
-\<a href="[https://wa.link/7we2zy](https://wa.link/7we2zy)">
-\<img src="[https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)"/>
-\</a>
+<a href="https://www.instagram.com/ahmed.jhatyal1">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-\</div>
+&nbsp;
 
----
+<a href="https://x.com/jhatial_ahmad">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-## 🎥 YouTube
+&nbsp;
 
-\<div align="center">
+<a href="https://wa.link/7we2zy">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-\<a href="[https://www.youtube.com/@ahmed\_907](https://www.youtube.com/@ahmed_907)">
-
-\<img src="[https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge\&logo=youtube\&logoColor=white)"/>
-
-\</a>
-
-\</div>
+</div>
 
 ---
 
-## 💡 My Goals
+# 🎥 YouTube
+
+<div align="center">
+
+<a href="https://www.youtube.com/@ahmed_907">
+
+<img src="https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 💡 My Goals
 
 I'm working towards becoming a strong software engineer by continuously learning, building projects, and solving real-world problems.
 
-### My Roadmap
+### 🚀 My Roadmap
 
 - 📚 Master core Computer Science concepts
-- 🧩 Become strong at DSA and problem solving
+- 🧩 Become strong in DSA and problem solving
 - 🤖 Build practical AI applications
 - 🌐 Become a full-stack developer
-- 🔐 Develop strong cybersecurity knowledge
+- 🔐 Develop strong cybersecurity skills
 - 🚀 Build and launch useful products
 - 🌍 Work on impactful technology projects
 
 ---
 
-## 🤝 Open to
+# 🤝 Open To
 
 I'm interested in:
 
@@ -241,24 +283,36 @@ I'm interested in:
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-**Email:** [nasirhussain.edu12@gmail.com](mailto\:nasirhussain.edu12@gmail.com)
+<div align="center">
 
-**LinkedIn:** [Syed Nasir Hussain](https://www.linkedin.com/in/syed-nasir-hussain-1b8603381)
+### 📧 Email
 
-**GitHub:** [nasircooks-exe](https://github.com/nasircooks-exe)
+**nasirhussain.edu12@gmail.com**
+
+### 💼 LinkedIn
+
+**Syed Nasir Hussain**
+
+### 💻 GitHub
+
+**nasirhussain-1**
+
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-### ⭐ If you like my projects, consider giving them a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=120\&section=footer)"/>
+<br>
 
-**Thanks for visiting my profile! 🚀**
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
 **— Syed Nasir Hussain**
 
-\</div>
+</div>
