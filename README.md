@@ -130,6 +130,15 @@ A hardware + software university attendance system using smart cards.
 The system is designed to automate student attendance and connect attendance records directly with a database for administrative management.
 
 ---
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
 
 # 📊 GitHub Statistics
 
